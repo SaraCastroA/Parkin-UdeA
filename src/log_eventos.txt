@@ -1,0 +1,64 @@
+2025-07-12 11:32:24.988	Registrar Usuario	Documento: 123456789, Nombre: Andrea, Placa: ESA456	0.0104s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-12 11:32:55.188	Ingresar Vehículo	Placa: ESA456, Documento: 123456789	0.0101s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-12 11:33:55.862	Exportar CSV	Exportar usuarios y vehículos a CSV	0.0101s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-12 11:35:02.219	Retirar Vehículo	Placa: ESA456, Documento: 123456789	0.0102s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-12 11:36:00.614	Exportar CSV	Exportar usuarios y vehículos a CSV	0.0108s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+
+Resumen de acciones realizadas:
+Registrar Usuario: 1
+Ingresar Vehículo: 1
+Retirar Vehículo: 1
+Exportar CSV: 2
+2025-07-16 14:56:53.100	Registrar Usuario	Documento: 123456789, Nombre: Luis, Placa: QWE123	0.0102s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:06:31.193	Ingresar Vehículo	Placa: QWE123, Documento: 123456789	0.0103s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:06:48.828	Retirar Vehículo	Placa: QWE123, Documento: 123456789	0.0105s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+
+Resumen de acciones realizadas:
+Registrar Usuario: 1
+Ingresar Vehículo: 1
+Retirar Vehículo: 1
+Exportar CSV: 0
+2025-07-16 15:07:44.033	Registrar Usuario	Documento: 123456789, Nombre: Luis, Placa: ASD234	0.0103s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:08:04.784	Ingresar Vehículo	Placa: ASD234, Documento: 123456789	0.0106s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:08:36.906	Registrar Usuario	Documento: 987654321, Nombre: Andrea, Placa: QWE234	0.0105s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:08:50.949	Retirar Vehículo	Placa: ASD234, Documento: 123456789	0.0103s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+
+Resumen de acciones realizadas:
+Registrar Usuario: 2
+Ingresar Vehículo: 1
+Retirar Vehículo: 1
+Exportar CSV: 0
+2025-07-16 15:44:32.436	Registrar Usuario	Documento: 123456789, Nombre: Andrea, Placa: QWE123	0.0102s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:45:07.968	Registrar Usuario	Documento: 987654321, Nombre: Luis , Placa: ESA234	0.0101s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:45:24.188	Ingresar Vehículo	Placa: ESA234, Documento: 987654321	0.0102s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:45:53.634	Retirar Vehículo	Placa: ESA234, Documento: 987654321	0.0103s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:47:11.806	Exportar CSV	Exportar usuarios y vehículos a CSV	0.0105s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:47:24.233	Ingresar Vehículo	Placa: QWE123, Documento: 123456789	0.0110s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:47:43.208	Retirar Vehículo	Placa: QWE123, Documento: 123456789	0.0105s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:47:54.263	Exportar CSV	Exportar usuarios y vehículos a CSV	0.0105s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+
+Resumen de acciones realizadas:
+Registrar Usuario: 2
+Ingresar Vehículo: 2
+Retirar Vehículo: 2
+Exportar CSV: 2
+2025-07-16 15:54:38.858	Registrar Usuario	Documento: 123456789, Nombre: Luis , Placa: QWE123	0.0104s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:55:19.563	Ingresar Vehículo	Placa: QWE123, Documento: 123456789	0.0105s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:56:09.882	Registrar Usuario	Documento: 987654321, Nombre: Andrea, Placa: ASD345	0.0101s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:56:40.846	Ingresar Vehículo	Placa: ASD345, Documento: 987654321	0.0104s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:56:51.460	Retirar Vehículo	Placa: QWE123, Documento: 123456789	0.0101s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 15:57:47.886	Exportar CSV	Exportar usuarios y vehículos a CSV	0.0105s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+2025-07-16 17:20:17.887	Registrar Usuario	Documento: 9876543210, Nombre: Andrea, Placa: POT789	0.0103s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+
+Resumen de acciones realizadas:
+Registrar Usuario: 3
+Ingresar Vehículo: 2
+Retirar Vehículo: 1
+Exportar CSV: 1
+2025-07-16 17:21:21.361	Exportar CSV	Exportar usuarios y vehículos a CSV	0.0101s	Administrador	Windows 10.0.22631	Windows-11-10.0.22631-SP0
+
+Resumen de acciones realizadas:
+Registrar Usuario: 0
+Ingresar Vehículo: 0
+Retirar Vehículo: 0
+Exportar CSV: 1
